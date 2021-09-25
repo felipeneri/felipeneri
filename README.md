@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi everyone :wave:
+![](https://visitor-badge.glitch.me/badge?page_id=felipeneri)
+<a href="https://www.linkedin.com/in/nerifelipe/">
+  <img align="left" alt="Felipe Neri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
 
-<!--
-**felipeneri/felipeneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-Here are some ideas to get you started:
+class MobileDeveloper:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = "Felipe Neri"
+        self.role = "Mobile Developer"
+        self.language_spoken = ["pt_BR", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+me = MobileDeveloper()
+me.say_hi()
+```
+
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently learning ML, AI and Flutter
+- 💬 Ask me about javascript, python and aliens 
+- 📫 How to reach me: contato@felipeneri.com
+- 😄 Pronouns: Coder, Leader and Kind Hearted
+- ⚡ Fun fact: ❤️ 🐱
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=felipeneri&show_icons=true&theme=gotham" alt="felipeneri" />
