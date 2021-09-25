@@ -24,10 +24,11 @@ me.say_hi()
 ```
 
 - 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning ML, AI and Flutter
+- 🌱 I’m currently learning Flutter
+- 👨‍🎓 I’m currently studyng MBA in Artificial Inteligence & Machine Learning 
 - 💬 Ask me about javascript, python and aliens 
 - 📫 How to reach me: contato@felipeneri.com
 - 😄 Pronouns: Coder, Leader and Kind Hearted
 - ⚡ Fun fact: ❤️ 🐱
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=felipeneri&show_icons=true&theme=gotham" alt="felipeneri" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=felipeneri&show_icons=true&theme=tokyonight" alt="felipeneri" />
