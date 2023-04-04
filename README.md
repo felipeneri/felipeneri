@@ -27,7 +27,7 @@ me.say_hi()
 - 🌱 I’m currently learning Flutter
 - 👨‍🎓 I’m currently studyng MBA in Artificial Inteligence & Machine Learning 
 - 💬 Ask me about javascript, python and aliens 
-- 📫 How to reach me: contato@felipeneri.com
+- 📫 How to reach me: contact@felipeneri.com
 - 😄 Pronouns: Coder, Leader and Kind Hearted
 - ⚡ Fun fact: ❤️ 🐱
 
