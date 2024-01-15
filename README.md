@@ -1,9 +1,4 @@
 # Hi everyone :wave:
-![](https://visitor-badge.glitch.me/badge?page_id=felipeneri)
-<a href="https://www.linkedin.com/in/nerifelipe/">
-  <img align="left" alt="Felipe Neri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
 
 ```python
 #!/usr/bin/python
