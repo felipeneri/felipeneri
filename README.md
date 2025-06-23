@@ -18,7 +18,7 @@ class AspiringDataScientist:
         ]
         self.languages_spoken = ["pt_BR", "en_US"]
         self.learning_journey = "MBA in Artificial Intelligence & Machine Learning"
-        self.status = "🚀 Open to new opportunities in Data Science!"
+        self.status = "🚀 Open to new opportunities!"
 
     def greet(self):
         print(f"Hello! I'm {self.name}, passionate about data and transitioning my career towards {self.current_focus}.")
