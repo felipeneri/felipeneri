@@ -8,7 +8,7 @@ class AspiringDataScientist:
 
     def __init__(self):
         self.name = "Felipe Neri"
-        self.current_focus = "Data Science & Machine Learning"
+        self.current_focus = "FullStack, Mobile, Data Science"
         self.background = ["Web & Mobile Development"]
         self.skills = [
             # Data Science & ML
