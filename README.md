@@ -1,4 +1,4 @@
-# Hi there, aspiring Data Scientist! 👋
+# Hi there! 👋
 
 ```python
 #!/usr/bin/python
